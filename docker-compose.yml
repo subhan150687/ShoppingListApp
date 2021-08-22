@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+        shoppinglistapp:
+                build: ./secondproj
+                network_mode: host
+
+

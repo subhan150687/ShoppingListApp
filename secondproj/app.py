@@ -62,7 +62,7 @@ def delete(item_name):
    # db.session.commit()
    # return redirect(url_for("home"))
 
-if __name__ == "__main__":
+#if __name__ == "__main__":
     #db.create_all()
     #db.session.commit()
-    app.run(debug=True)
+ #   app.run(debug=True)
